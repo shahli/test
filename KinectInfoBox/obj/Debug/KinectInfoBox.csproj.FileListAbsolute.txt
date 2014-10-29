@@ -1,0 +1,13 @@
+C:\Users\Shahla\documents\visual studio 2013\Projects\KinectInfoBox\KinectInfoBox\bin\Debug\KinectInfoBox.exe.config
+C:\Users\Shahla\documents\visual studio 2013\Projects\KinectInfoBox\KinectInfoBox\bin\Debug\KinectInfoBox.exe
+C:\Users\Shahla\documents\visual studio 2013\Projects\KinectInfoBox\KinectInfoBox\bin\Debug\KinectInfoBox.pdb
+C:\Users\Shahla\documents\visual studio 2013\Projects\KinectInfoBox\KinectInfoBox\obj\Debug\MainWindow.baml
+C:\Users\Shahla\documents\visual studio 2013\Projects\KinectInfoBox\KinectInfoBox\obj\Debug\MainWindow.g.cs
+C:\Users\Shahla\documents\visual studio 2013\Projects\KinectInfoBox\KinectInfoBox\obj\Debug\App.g.cs
+C:\Users\Shahla\documents\visual studio 2013\Projects\KinectInfoBox\KinectInfoBox\obj\Debug\KinectInfoBox_MarkupCompile.cache
+C:\Users\Shahla\documents\visual studio 2013\Projects\KinectInfoBox\KinectInfoBox\obj\Debug\KinectInfoBox.g.resources
+C:\Users\Shahla\documents\visual studio 2013\Projects\KinectInfoBox\KinectInfoBox\obj\Debug\KinectInfoBox.Properties.Resources.resources
+C:\Users\Shahla\documents\visual studio 2013\Projects\KinectInfoBox\KinectInfoBox\obj\Debug\KinectInfoBox.csproj.GenerateResource.Cache
+C:\Users\Shahla\documents\visual studio 2013\Projects\KinectInfoBox\KinectInfoBox\obj\Debug\KinectInfoBox.exe
+C:\Users\Shahla\documents\visual studio 2013\Projects\KinectInfoBox\KinectInfoBox\obj\Debug\KinectInfoBox.pdb
+C:\Users\Shahla\documents\visual studio 2013\Projects\KinectInfoBox\KinectInfoBox\obj\Debug\KinectInfoBox.csprojResolveAssemblyReference.cache
